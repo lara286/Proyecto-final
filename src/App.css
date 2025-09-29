@@ -18,3 +18,8 @@ body{
     transform: translate(-50%, -50%);
     text-shadow: -5px 2px 2px black;
 }
+.padding{
+    width: 100%;
+    padding-top: 40px;
+    margin: 10px;
+}
