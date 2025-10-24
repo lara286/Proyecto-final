@@ -31,7 +31,7 @@ return (
                     </div>
                     <h6 className="titulo-informacion">Nuestro lema es: "Despliega tus alas, despliega tu belleza"</h6>
                 </div>
-            </div> 
+            </div>
         </div>
     </>
 )

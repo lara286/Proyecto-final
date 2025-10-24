@@ -4,6 +4,7 @@ import Bienvenido from "./componentes/Presentacion.jsx"
 import Navbar from "./componentes/Nav.jsx"
 import Informacion from "./componentes/Quienes_somos.jsx"
 import Carrito from './componentes/Carrito.jsx'
+import Contacto from "./componentes/Contacto.jsx"
 function App() {
 
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/carrito" element={<Carrito/>} />
         <Route path="/" element={<Bienvenido/>} />
         <Route path="/quienes_somos" element={<Informacion/>} />
+        <Route path="/contacto" element={<Contacto/>} />
       </Routes>
       <Navbar/> 
     </BrowserRouter>  

@@ -13,23 +13,21 @@ export default function Navbar(){
                   <li class="nav-item">
                     <Link to="/quienes_somos" class="nav-link active " aria-current="page" >¿Quienes somos?</Link>
                   </li>
+                  <li class="nav-item d-flex ms-auto">
+                    <Link to="/contacto" class="nav-link" >Contactanos</Link>
+                  </li>
                   <li class="nav-item">
                     <Link to="/carrito" class="nav-link active " aria-current="page" ><img className="logos" src="/img/logo_carrito.jpg" alt="" /></Link>
-                  </li>
-                  <li class="nav-item d-flex ms-auto">
-                    <a class="nav-link" href="#"><img className="logos" src="/img/logo_whatsapp.png" alt="" /></a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#"><img className="logos" src="/img/logo_instagram.png" alt="" /></a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Productos</a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="#">Collares</a></li>
-                      <li><a class="dropdown-item" href="#">Pulseras</a></li>
-                      <li><a class="dropdown-item" href="#">Llaveros</a></li>
-                      <li><a class="dropdown-item" href="#">Broches y Vinchas</a></li>
-                      <li><a class="dropdown-item" href="#">Aros</a></li>
+                      <li><link to="" class="dropdown-item" >Collares</link></li>
+                      <li><link to="" class="dropdown-item" >Pulseras</link></li>
+                      <li><link to="" class="dropdown-item" >Llaveros</link></li>
+                      <li><link to="" class="dropdown-item" >Vinchas</link></li>
+                      <li><link to="" class="dropdown-item" >Aros</link></li>
+                      <li><link to="" class="dropdown-item" >Todos los accesorios</link></li>
                     </ul>
                   </li>
                 </ul>
