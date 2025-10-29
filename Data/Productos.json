@@ -1,329 +1,329 @@
 [
     {
         "id":1,
-        "nombre":"7 nudos",
+        "nombre":"Pulsera 7 nudos",
         "precio":"1500",
         "imagen":"/img/productos/7-nudos.jpg",
         "categoria":"pulseras"
     },
     {
         "id":2,
-        "nombre":"tres generaciones",
+        "nombre":"Pulsera tres generaciones",
         "precio":"4500",
         "imagen":"/img/productos/tres-generaciones.jpg",
         "categoria":"pulseras"
     },
     {
         "id":3,
-        "nombre":"chicas super poderosas",
+        "nombre":"Pulsera chicas super poderosas",
         "precio":"3200",
         "imagen":"/img/productos/chicas-super.jpg",
         "categoria":"pulseras"
     },
     {
         "id":4,
-        "nombre":"con corazon de mostacilla",
+        "nombre":"Pulsera con corazon de mostacilla",
         "precio":"2500",
         "imagen":"/img/productos/con-corazon.jpg",
         "categoria":"pulseras"
     },
     {
         "id":5,
-        "nombre":"en espiral",
+        "nombre":"Pulsera en espiral",
         "precio":"2000",
         "imagen":"/img/productos/en-espiral.jpg",
         "categoria":"pulseras"
     },
     {
         "id":6,
-        "nombre":"friends",
+        "nombre":"pulsera friends",
         "precio":"5500",
         "imagen":"/img/productos/friends.jpg",
         "categoria":"pulseras"
     },
     {
         "id":7,
-        "nombre":"iniciales",
+        "nombre":"Pulsera con iniciales",
         "precio":"2500",
         "imagen":"/img/productos/iniciales.jpg",
         "categoria":"pulseras"
     },
     {
         "id":8,
-        "nombre":"madre e hijas",
+        "nombre":"Pulsera para madre e hijas",
         "precio":"3200",
         "imagen":"/img/productos/madre-hija.jpg",
         "categoria":"pulseras"
     },
     {
         "id":9,
-        "nombre":"ojo turco",
+        "nombre":"pulsera ojo turco",
         "precio":"2500",
         "imagen":"/img/productos/ojo-turco.jpg",
         "categoria":"pulseras"
     },
     {
         "id":10,
-        "nombre":"de corazones",
+        "nombre":"Pulsera de corazones",
         "precio":"4000",
         "imagen":"/img/productos/pulsera-corazon-2t.jpg",
         "categoria":"pulseras"
     },
     {
         "id":11,
-        "nombre":"sin dije",
+        "nombre":"Pulsera sin dije",
         "precio":"2000",
         "imagen":"/img/productos/simples.jpg",
         "categoria":"pulseras"
     },
     {
         "id":12,
-        "nombre":"tres deseos",
+        "nombre":"Pulsera tres deseos",
         "precio":"2500",
         "imagen":"/img/productos/tres-deseos.jpg",
         "categoria":"pulseras"
     },
     {
         "id":13,
-        "nombre":"de mostacillas azul",
+        "nombre":"Collar de mostacillas azul",
         "precio":"4000",
         "imagen":"/img/productos/c.azul.jpg",
         "categoria":"collares"
     },
     {
         "id":14,
-        "nombre":"de mostacilla blanco y negro",
+        "nombre":"Collar de mostacilla blanco y negro",
         "precio":"4500",
         "imagen":"/img/productos/c.b-n.jpg",
         "categoria":"collares"
     },
     {
         "id":15,
-        "nombre":"corazones de mostacilla",
+        "nombre":"Collar con corazones de mostacilla",
         "precio":"4500",
         "imagen":"/img/productos/c.corazones.jpg",
         "categoria":"collares"
     },
     {
         "id":16,
-        "nombre":"dije estrella",
+        "nombre":"Collar con dije de estrella",
         "precio":"5000",
         "imagen":"/img/productos/c.dije-estrella.jpg",
         "categoria":"collares"
     },
     {
         "id":17,
-        "nombre":"flores de mostacilla",
+        "nombre":"Collar con flores de mostacilla",
         "precio":"4800",
         "imagen":"/img/productos/c.flores.jpg",
         "categoria":"collares"
     },
     {
         "id":18,
-        "nombre":"ojo turco",
+        "nombre":"Collar con ojo turco",
         "precio":"4500",
         "imagen":"/img/productos/c.ojo-turco.jpg",
         "categoria":"collares"
     },
     {
         "id":19,
-        "nombre":"de mostacillas rojo",
+        "nombre":"Collar de mostacillas rojo",
         "precio":"4000",
         "imagen":"/img/productos/c.rojo.jpg",
         "categoria":"collares"
     },
     {
         "id":20,
-        "nombre":"dije estrella",
+        "nombre":"Collar de cadena con dije de estrella",
         "precio":"5000",
         "imagen":"/img/productos/k.estrella.jpg",
         "categoria":"collares"
     },
     {
         "id":21,
-        "nombre":"dije flor",
+        "nombre":"Collar de cadena con dije de flor",
         "precio":"5000",
         "imagen":"/img/productos/k.flor.jpg",
         "categoria":"collares"
     },
     {
         "id":22,
-        "nombre":"dije lazo",
+        "nombre":"Collar de cadena con dije de lazo",
         "precio":"5000",
         "imagen":"/img/productos/k.lazo.jpg",
         "categoria":"collares"
     },
     {
         "id":23,
-        "nombre":"dije mariposa",
+        "nombre":"Collar de cadena con dije de mariposa",
         "precio":"5000",
         "imagen":"/img/productos/k.mariposa.jpg",
         "categoria":"collares"
     },
     {
         "id":24,
-        "nombre":"estrella",
+        "nombre":"llavero de estrella",
         "precio":"6000",
         "imagen":"/img/productos/ll-estrella.jpg",
         "categoria":"llaveros"
     },
     {
         "id":25,
-        "nombre":"flor",
+        "nombre":"Llavero de flor",
         "precio":"7500",
         "imagen":"/img/productos/ll-flor.jpg",
         "categoria":"llaveros"
     },
     {
         "id":26,
-        "nombre":"gato",
+        "nombre":"Llavero de gato",
         "precio":"5800",
         "imagen":"/img/productos/ll-gato.jpg",
         "categoria":"llaveros"
     },
     {
         "id":27,
-        "nombre":"helado",
+        "nombre":"Llavero de helado",
         "precio":"6000",
         "imagen":"/img/productos/ll-helado.jpg",
         "categoria":"llaveros"
     },
     {
         "id":28,
-        "nombre":"lazo",
+        "nombre":"Llavero de lazo",
         "precio":"4500",
         "imagen":"/img/productos/ll-lazo.jpg",
         "categoria":"llaveros"
     },
     {
         "id":29,
-        "nombre":"mariposa",
+        "nombre":"Llavero de mariposa",
         "precio":"6200",
         "imagen":"/img/productos/ll-mariposa.jpg",
         "categoria":"llaveros"
     },
     {
         "id":30,
-        "nombre":"nube",
+        "nombre":"Llavero de nube",
         "precio":"6500",
         "imagen":"/img/productos/ll-nube.jpg",
         "categoria":"llaveros"
     },
     {
         "id":31,
-        "nombre":"pollito",
+        "nombre":"Llavero de pollito",
         "precio":"7000",
         "imagen":"/img/productos/ll-pollito.jpg",
         "categoria":"llaveros"
     },
     {
         "id":32,
-        "nombre":"orejas de conejo",
+        "nombre":"Vincha con orejas de conejo",
         "precio":"7000",
         "imagen":"/img/productos/vi-conejito.jpg",
         "categoria":"vinchas"
     },
     {
         "id":33,
-        "nombre":"cuernos",
+        "nombre":"Vincha con cuernos",
         "precio":"7000",
         "imagen":"/img/productos/vi-cuernitos.jpg",
         "categoria":"vinchas"
     },
     {
         "id":34,
-        "nombre":"flores",
+        "nombre":"Vincha de flores",
         "precio":"7800",
         "imagen":"/img/productos/vi-flores.jpg",
         "categoria":"vinchas"
     },
     {
         "id":35,
-        "nombre":"orejas de gato",
+        "nombre":"Vincha con orejas de gato",
         "precio":"7000",
         "imagen":"/img/productos/vi-gatito.jpg",
         "categoria":"vinchas"
     },
     {
         "id":36,
-        "nombre":"halloween",
+        "nombre":"Vincha de halloween",
         "precio":"8000",
         "imagen":"/img/productos/vi-hallowen.jpg",
         "categoria":"vinchas"
     },
     {
         "id":37,
-        "nombre":"lazo",
+        "nombre":"Vincha con lazo",
         "precio":"7500",
         "imagen":"/img/productos/vi-lazo.jpg",
         "categoria":"vinchas"
     },
     {
         "id":38,
-        "nombre":"rosas",
+        "nombre":"Vincha con rosas",
         "precio":"7800",
         "imagen":"/img/productos/vi-rosas.jpg",
         "categoria":"vinchas"
     },
     {
         "id":39,
-        "nombre":"simple",
+        "nombre":"Vincha simple",
         "precio":"6500",
         "imagen":"/img/productos/vi-simple.jpg",
         "categoria":"vinchas"
     },
     {
         "id":40,
-        "nombre":"corazon",
+        "nombre":"Aros de corazon",
         "precio":"4000",
         "imagen":"/img/productos/a-corazon.jpg",
         "categoria":"aros"
     },
     {
         "id":41,
-        "nombre":"estrella",
+        "nombre":"Aros con estrellas",
         "precio":"4500",
         "imagen":"/img/productos/a-estrella.jpg",
         "categoria":"aros"
     },
     {
         "id":42,
-        "nombre":"estrella de mar",
+        "nombre":"Aros de estrella de mar",
         "precio":"4800",
         "imagen":"/img/productos/a-estrellamar.jpg",
         "categoria":"aros"
     },
     {
         "id":43,
-        "nombre":"flores",
+        "nombre":"Aros de flores",
         "precio":"5000",
         "imagen":"/img/productos/a-flores.jpg",
         "categoria":"aros"
     },
     {
         "id":44,
-        "nombre":"frutilla",
+        "nombre":"Aros de frutilla",
         "precio":"5000",
         "imagen":"/img/productos/a-frutilla.jpg",
         "categoria":"aros"
     },
     {
         "id":45,
-        "nombre":"lazo",
+        "nombre":"Aros de lazo",
         "precio":"4000",
         "imagen":"/img/productos/a-lazo.jpg",
         "categoria":"aros"
     },
     {
         "id":46,
-        "nombre":"cruces",
+        "nombre":"Aros de cruces",
         "precio":"4200",
         "imagen":"/img/productos/a-cruces.jpg",
         "categoria":"aros"
     },
     {
         "id":47,
-        "nombre":"tela de araña",
+        "nombre":"Aros de tela de araña",
         "precio":"5000",
         "imagen":"/img/productos/a-tela.jpg",
         "categoria":"aros"

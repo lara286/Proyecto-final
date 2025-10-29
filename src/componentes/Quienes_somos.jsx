@@ -29,7 +29,7 @@ return (
                             destacada por su diseño auténtico.
                         </p>
                     </div>
-                    <h6 className="titulo-informacion">Nuestro lema es: "Despliega tus alas, despliega tu belleza"</h6>
+                    <h4 className="titulo-informacion">Nuestro lema es: "Despliega tus alas, despliega tu belleza"</h4>
                 </div>
             </div>
         </div>
