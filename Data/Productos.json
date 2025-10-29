@@ -1,331 +1,331 @@
 [
     {
-        "Id":1,
-        "Nombre":"7 nudos",
-        "precio":"$1500",
+        "id":1,
+        "nombre":"7 nudos",
+        "precio":"1500",
         "imagen":"/img/productos/7-nudos.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":2,
-        "Nombre":"tres generaciones",
-        "precio":"$4500",
+        "id":2,
+        "nombre":"tres generaciones",
+        "precio":"4500",
         "imagen":"/img/productos/tres-generaciones.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":3,
-        "Nombre":"chicas super poderosas",
-        "precio":"$3200",
+        "id":3,
+        "nombre":"chicas super poderosas",
+        "precio":"3200",
         "imagen":"/img/productos/chicas-super.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":4,
-        "Nombre":"con corazon de mostacilla",
-        "precio":"$2500",
+        "id":4,
+        "nombre":"con corazon de mostacilla",
+        "precio":"2500",
         "imagen":"/img/productos/con-corazon.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":5,
-        "Nombre":"en espiral",
-        "precio":"$2000",
+        "id":5,
+        "nombre":"en espiral",
+        "precio":"2000",
         "imagen":"/img/productos/en-espiral.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":6,
-        "Nombre":"friends",
-        "precio":"$5500",
+        "id":6,
+        "nombre":"friends",
+        "precio":"5500",
         "imagen":"/img/productos/friends.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":7,
-        "Nombre":"iniciales",
-        "precio":"$2500",
+        "id":7,
+        "nombre":"iniciales",
+        "precio":"2500",
         "imagen":"/img/productos/iniciales.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":8,
-        "Nombre":"madre e hijas",
-        "precio":"$3200",
+        "id":8,
+        "nombre":"madre e hijas",
+        "precio":"3200",
         "imagen":"/img/productos/madre-hija.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":9,
-        "Nombre":"ojo turco",
-        "precio":"$2500",
+        "id":9,
+        "nombre":"ojo turco",
+        "precio":"2500",
         "imagen":"/img/productos/ojo-turco.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":10,
-        "Nombre":"de corazones",
-        "precio":"$4000",
+        "id":10,
+        "nombre":"de corazones",
+        "precio":"4000",
         "imagen":"/img/productos/pulsera-corazon-2t.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":11,
-        "Nombre":"sin dije",
-        "precio":"$2000",
+        "id":11,
+        "nombre":"sin dije",
+        "precio":"2000",
         "imagen":"/img/productos/simples.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":12,
-        "Nombre":"tres deseos",
-        "precio":"$2500",
+        "id":12,
+        "nombre":"tres deseos",
+        "precio":"2500",
         "imagen":"/img/productos/tres-deseos.jpg",
         "categoria":"pulseras"
     },
     {
-        "Id":13,
-        "Nombre":"de mostacillas azul",
-        "precio":"$4000",
+        "id":13,
+        "nombre":"de mostacillas azul",
+        "precio":"4000",
         "imagen":"/img/productos/c.azul.jpg",
         "categoria":"collares"
     },
     {
-        "Id":14,
-        "Nombre":"de mostacilla blanco y negro",
-        "precio":"$4500",
+        "id":14,
+        "nombre":"de mostacilla blanco y negro",
+        "precio":"4500",
         "imagen":"/img/productos/c.b-n.jpg",
         "categoria":"collares"
     },
     {
-        "Id":15,
-        "Nombre":"corazones de mostacilla",
-        "precio":"$4500",
+        "id":15,
+        "nombre":"corazones de mostacilla",
+        "precio":"4500",
         "imagen":"/img/productos/c.corazones.jpg",
         "categoria":"collares"
     },
     {
-        "Id":16,
-        "Nombre":"dije estrella",
-        "precio":"$5000",
+        "id":16,
+        "nombre":"dije estrella",
+        "precio":"5000",
         "imagen":"/img/productos/c.dije-estrella.jpg",
         "categoria":"collares"
     },
     {
-        "Id":17,
-        "Nombre":"flores de mostacilla",
-        "precio":"$4800",
+        "id":17,
+        "nombre":"flores de mostacilla",
+        "precio":"4800",
         "imagen":"/img/productos/c.flores.jpg",
         "categoria":"collares"
     },
     {
-        "Id":18,
-        "Nombre":"ojo turco",
-        "precio":"$4500",
+        "id":18,
+        "nombre":"ojo turco",
+        "precio":"4500",
         "imagen":"/img/productos/c.ojo-turco.jpg",
         "categoria":"collares"
     },
     {
-        "Id":19,
-        "Nombre":"de mostacillas rojo",
-        "precio":"$4000",
+        "id":19,
+        "nombre":"de mostacillas rojo",
+        "precio":"4000",
         "imagen":"/img/productos/c.rojo.jpg",
         "categoria":"collares"
     },
     {
-        "Id":20,
-        "Nombre":"dije estrella",
-        "precio":"$5000",
+        "id":20,
+        "nombre":"dije estrella",
+        "precio":"5000",
         "imagen":"/img/productos/k.estrella.jpg",
         "categoria":"collares"
     },
     {
-        "Id":21,
-        "Nombre":"dije flor",
-        "precio":"$5000",
+        "id":21,
+        "nombre":"dije flor",
+        "precio":"5000",
         "imagen":"/img/productos/k.flor.jpg",
         "categoria":"collares"
     },
     {
-        "Id":22,
-        "Nombre":"dije lazo",
-        "precio":"$5000",
+        "id":22,
+        "nombre":"dije lazo",
+        "precio":"5000",
         "imagen":"/img/productos/k.lazo.jpg",
         "categoria":"collares"
     },
     {
-        "Id":23,
-        "Nombre":"dije mariposa",
-        "precio":"$5000",
+        "id":23,
+        "nombre":"dije mariposa",
+        "precio":"5000",
         "imagen":"/img/productos/k.mariposa.jpg",
         "categoria":"collares"
     },
     {
-        "Id":24,
-        "Nombre":"estrella",
-        "precio":"$6000",
+        "id":24,
+        "nombre":"estrella",
+        "precio":"6000",
         "imagen":"/img/productos/ll-estrella.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":25,
-        "Nombre":"flor",
-        "precio":"$7500",
+        "id":25,
+        "nombre":"flor",
+        "precio":"7500",
         "imagen":"/img/productos/ll-flor.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":26,
-        "Nombre":"gato",
-        "precio":"$5800",
+        "id":26,
+        "nombre":"gato",
+        "precio":"5800",
         "imagen":"/img/productos/ll-gato.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":27,
-        "Nombre":"helado",
-        "precio":"$6000",
+        "id":27,
+        "nombre":"helado",
+        "precio":"6000",
         "imagen":"/img/productos/ll-helado.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":28,
-        "Nombre":"lazo",
-        "precio":"$4500",
+        "id":28,
+        "nombre":"lazo",
+        "precio":"4500",
         "imagen":"/img/productos/ll-lazo.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":29,
-        "Nombre":"mariposa",
-        "precio":"$6200",
+        "id":29,
+        "nombre":"mariposa",
+        "precio":"6200",
         "imagen":"/img/productos/ll-mariposa.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":30,
-        "Nombre":"nube",
-        "precio":"$6500",
+        "id":30,
+        "nombre":"nube",
+        "precio":"6500",
         "imagen":"/img/productos/ll-nube.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":31,
-        "Nombre":"pollito",
-        "precio":"$7000",
+        "id":31,
+        "nombre":"pollito",
+        "precio":"7000",
         "imagen":"/img/productos/ll-pollito.jpg",
         "categoria":"llaveros"
     },
     {
-        "Id":32,
-        "Nombre":"orejas de conejo",
-        "precio":"$7000",
+        "id":32,
+        "nombre":"orejas de conejo",
+        "precio":"7000",
         "imagen":"/img/productos/vi-conejito.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":33,
-        "Nombre":"cuernos",
-        "precio":"$7000",
+        "id":33,
+        "nombre":"cuernos",
+        "precio":"7000",
         "imagen":"/img/productos/vi-cuernitos.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":34,
-        "Nombre":"flores",
-        "precio":"$7800",
-        "imagen":"/img/productos/vi-flores",
+        "id":34,
+        "nombre":"flores",
+        "precio":"7800",
+        "imagen":"/img/productos/vi-flores.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":35,
-        "Nombre":"orejas de gato",
-        "precio":"$7000",
+        "id":35,
+        "nombre":"orejas de gato",
+        "precio":"7000",
         "imagen":"/img/productos/vi-gatito.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":36,
-        "Nombre":"halloween",
-        "precio":"$8000",
+        "id":36,
+        "nombre":"halloween",
+        "precio":"8000",
         "imagen":"/img/productos/vi-hallowen.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":37,
-        "Nombre":"lazo",
-        "precio":"$7500",
+        "id":37,
+        "nombre":"lazo",
+        "precio":"7500",
         "imagen":"/img/productos/vi-lazo.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":38,
-        "Nombre":"rosas",
-        "precio":"$7800",
+        "id":38,
+        "nombre":"rosas",
+        "precio":"7800",
         "imagen":"/img/productos/vi-rosas.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":39,
-        "Nombre":"simple",
-        "precio":"$6500",
+        "id":39,
+        "nombre":"simple",
+        "precio":"6500",
         "imagen":"/img/productos/vi-simple.jpg",
         "categoria":"vinchas"
     },
     {
-        "Id":40,
-        "Nombre":"corazon",
-        "precio":"$4000",
+        "id":40,
+        "nombre":"corazon",
+        "precio":"4000",
         "imagen":"/img/productos/a-corazon.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":41,
-        "Nombre":"estrella",
-        "precio":"$4500",
+        "id":41,
+        "nombre":"estrella",
+        "precio":"4500",
         "imagen":"/img/productos/a-estrella.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":42,
-        "Nombre":"estrella de mar",
-        "precio":"$4800",
+        "id":42,
+        "nombre":"estrella de mar",
+        "precio":"4800",
         "imagen":"/img/productos/a-estrellamar.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":43,
-        "Nombre":"flores",
-        "precio":"$5000",
+        "id":43,
+        "nombre":"flores",
+        "precio":"5000",
         "imagen":"/img/productos/a-flores.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":44,
-        "Nombre":"frutilla",
-        "precio":"$5000",
+        "id":44,
+        "nombre":"frutilla",
+        "precio":"5000",
         "imagen":"/img/productos/a-frutilla.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":45,
-        "Nombre":"lazo",
-        "precio":"$4000",
+        "id":45,
+        "nombre":"lazo",
+        "precio":"4000",
         "imagen":"/img/productos/a-lazo.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":46,
-        "Nombre":"cruces",
-        "precio":"$4200",
+        "id":46,
+        "nombre":"cruces",
+        "precio":"4200",
         "imagen":"/img/productos/a-cruces.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     },
     {
-        "Id":47,
-        "Nombre":"tela de araña",
-        "precio":"$5000",
+        "id":47,
+        "nombre":"tela de araña",
+        "precio":"5000",
         "imagen":"/img/productos/a-tela.jpg",
-        "categoria":"aritos"
+        "categoria":"aros"
     }
 ]
